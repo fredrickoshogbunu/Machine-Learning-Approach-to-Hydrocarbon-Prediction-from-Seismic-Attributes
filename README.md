@@ -1,0 +1,1 @@
+# Machine-Learning-Approach-to-Hydrocarbon-Prediction-from-Seismic-Attributes
